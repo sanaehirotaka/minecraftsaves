@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2022-09-24 15:25:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2022-09-17 16:45:40 +0900"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-09-24 07:34:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2022-09-18 07:42:36 +0900"
@@ -611,6 +623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2022-09-24 15:25:23 +0900"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-09-18 12:47:44 +0900",
@@ -645,6 +663,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-09-18 07:06:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2022-09-24 13:17:32 +0900"
     },
     "done": true
   },
@@ -747,6 +771,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
       "has_polished_diorite": "2022-09-18 14:14:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2022-09-24 13:17:32 +0900"
     },
     "done": true
   },
@@ -1387,6 +1417,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2022-09-24 13:17:32 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2022-09-22 07:09:26 +0900"
@@ -1396,6 +1432,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-09-18 14:30:29 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2022-09-24 07:34:51 +0900"
     },
     "done": true
   },
@@ -1568,6 +1610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2022-09-24 07:34:51 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-09-18 15:03:39 +0900"
@@ -1625,6 +1673,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2022-09-17 16:10:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-09-24 07:34:51 +0900"
     },
     "done": true
   },
@@ -1776,7 +1830,10 @@
     "criteria": {
       "cooked_beef": "2022-09-18 17:33:28 +0900",
       "bread": "2022-09-17 16:13:14 +0900",
-      "cooked_chicken": "2022-09-17 18:12:29 +0900"
+      "rotten_flesh": "2022-09-24 16:34:46 +0900",
+      "suspicious_stew": "2022-09-24 18:06:45 +0900",
+      "cooked_chicken": "2022-09-17 18:12:29 +0900",
+      "cooked_salmon": "2022-09-24 13:01:44 +0900"
     },
     "done": false
   },
@@ -2672,6 +2729,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-09-17 17:16:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-09-24 07:27:30 +0900"
     },
     "done": true
   },
